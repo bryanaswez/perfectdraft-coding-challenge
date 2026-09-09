@@ -3,5 +3,17 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <!--
+    The upstream fixtures live at the repository root, outside this project. Copying them to the
+    output directory keeps the app self contained at run time and makes the same files available to
+    the test project through its project reference.
+  -->
+  <ItemGroup>
+    <Content Include="..\..\data\*.json"
+             Link="data\%(Filename)%(Extension)"
+             CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
 </Project>
