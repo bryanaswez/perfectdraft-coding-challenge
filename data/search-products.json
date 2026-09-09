@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "P100",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/09dba87f-9bd0-499c-8aec-e7f374bdd1fa.webp",
+    "title": "Stella Artois",
+    "price": 42.79,
+    "inStock": false
+  },
+  {
+    "objectID": "P200",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/1172eafe-77d7-4828-bd2f-3f7e9a47e981.webp",
+    "title": "Hawkstone Lager",
+    "price": 42.95,
+    "inStock": false
+  },
+  {
+    "objectID": "P300",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/4105415b-0148-4f1d-ba9c-d095c7200aa6.webp",
+    "title": "Modelo Especial",
+    "price": 39.95,
+    "inStock": true
+  },
+  {
+    "objectID": "P400",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/1ab5d825-f3fb-44a7-8abb-f89f1d53a174.webp",
+    "title": "PerfectDraft Pro Machine",
+    "price": 229.00,
+    "inStock": false
+  },
+  {
+    "objectID": "P401",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/2b04aa12-10ee-4eb4-af8b-d917d6859c1f.webp",
+    "title": "PerfectDraft Pro Black Machine",
+    "price": 251.00,
+    "inStock": true
+  },
+  {
+    "objectID": "P999",
+    "image": "https://organisation-dev.perfectdraft.com/images/promoimages/0e58ee42-2408-480c-b746-135233070e43.webp",
+    "title": "Camden Rugby Ball",
+    "price": 17.50,
+    "inStock": true
+  }
+]

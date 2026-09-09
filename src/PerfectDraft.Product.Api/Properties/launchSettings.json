@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "PerfectDraft.Product.Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--urls http://*:9001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local",
+        "ASPNETCORE_ENVIRONMENTCODE": "loc",
+        "ASPNETCORE_SUBPATH": "/"
+      }
+    }
+  }
+}

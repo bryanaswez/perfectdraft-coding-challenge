@@ -1,0 +1,44 @@
+[
+  {
+    "sku": "P100",
+    "name": "PerfectDraft Stella Artois 6L Keg",
+    "price": 38.50,
+    "currency": "GBP",
+    "stock": 12
+  },
+  {
+    "sku": "P200",
+    "name": "PerfectDraft Hawkstone Lager 6L Keg",
+    "price": 42.95,
+    "currency": "GBP",
+    "stock": 0
+  },
+  {
+    "sku": "P300",
+    "name": "PerfectDraft Modelo Especial 6L Keg",
+    "price": 39.95,
+    "currency": "GBP",
+    "stock": 40
+  },
+  {
+    "sku": "P400",
+    "name": "PerfectDraft Pro Machine",
+    "price": 249.00,
+    "currency": "GBP",
+    "stock": 74
+  },
+  {
+    "sku": "P401",
+    "name": "PerfectDraft Pro Black Machine",
+    "price": 249.00,
+    "currency": "GBP",
+    "stock": 43
+  },
+  {
+    "sku": "M100",
+    "name": "Lowenbrau x PerfectDraft Cap",
+    "price": 25.00,
+    "currency": "GBP",
+    "stock": 9
+  }
+]
