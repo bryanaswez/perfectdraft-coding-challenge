@@ -1,0 +1,4 @@
+[
+  { "sku": "P100", "name": "First Row", "price": 1.00, "currency": "GBP", "stock": 1 },
+  { "sku": "P100", "name": "Second Row", "price": 2.00, "currency": "GBP", "stock": 1 }
+]

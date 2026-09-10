@@ -9,6 +9,10 @@
   <ItemGroup>
     <ProjectReference Include="..\PerfectDraft.Product.Api\PerfectDraft.Product.Api.csproj" />
   </ItemGroup>
+  <!-- Deliberately broken upstream fixtures, used to exercise bad data paths. -->
+  <ItemGroup>
+    <Content Include="TestData\*.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.14" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.10.0" />

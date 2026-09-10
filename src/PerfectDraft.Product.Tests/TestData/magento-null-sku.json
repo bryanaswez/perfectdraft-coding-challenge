@@ -1,0 +1,4 @@
+[
+  { "sku": null, "name": null, "price": 10.00, "currency": "GBP", "stock": 3 },
+  { "sku": "P100", "name": "PerfectDraft Stella Artois 6L Keg", "price": 38.50, "currency": "GBP", "stock": 12 }
+]
